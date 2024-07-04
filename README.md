@@ -1,4 +1,4 @@
-# DLS-Analysis-Empa-CXA
+# DLS-Data-Modeling-Empa-CXA
 Software and useful python tools for data processing and analysis of Multi-angle Dynamic Light Scattering data (from ZetaSizer or other instruments)
 
 <h1 align="center">
